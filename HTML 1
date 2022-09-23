@@ -1,0 +1,66 @@
+<div> 
+  <h1>Jovani's Page of Interests</h1> 
+  <p>The following is a page of my interests...enjoy!</p> 
+</div> 
+<div>
+  <h2>What's Your Top 5?</h2>
+  <ol>
+    <li>Programming Languages</li> 
+    <li>Desktop Applications</li>
+    <li>Web Applications</li>
+    <li>Instruments</li>
+    <li>Math Topics</li>
+    <li>Crypto Coins</li>
+</div>
+<div> 
+  <h3>Programming Languages</h3> 
+  <ol>
+    <li>Java</li>
+    <li>C</li>
+    <li>C++</li>
+    <li>C#</li>
+    <li>MATLAB</li>
+  </ol>
+  <h3>Desktop Applications</h3> 
+  <ol> 
+    <li>FL Studio 20</li>
+    <li>Microsoft Edge</li>
+    <li>Google Chrome</li>
+    <li>Eclipse IDE</li>
+    <li>Code Blocks</li>
+  </ol> 
+  <h3>Web Applications</h3> 
+  <ol>
+    <li>Google Docs</li>
+    <li>Code Pen</li>
+    <li>Jupyter Notebook</li>
+    <li>Wikipedia</li>
+    <li>Google Drive</li>
+  </ol> 
+  <h3>Instruments</h3> 
+  <ol> 
+    <li>Guitar</h3> 
+    <li>Keyboard</li>
+    <li>Synthesizer</li>
+    <li>Cello</li>
+    <li>Virtual Software Technology</li>
+  </ol>
+  <h3>Math Topics</h3>
+  <ol> 
+    <li>Algebra</li>
+    <li>Trigonomentry</li>
+    <li>Functions</li>
+    <li>Fuction Transformations</li>
+    <li>Sequences & Series</li>
+  </ol>
+  <h3>Crypto Coins</h3>
+  <ol>
+    <li>Stellar Lumens (XML)</li>
+    <li>Bitcoin (BTC)</li>
+    <li>Ethereum (ETH)</li>
+    <li>Cardano (ADA)</li>
+    <li>Decentraland (MANA)</li>
+  </ol> 
+</div> 
+  
+  
